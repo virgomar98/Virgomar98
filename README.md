@@ -1,15 +1,12 @@
 ## Oieeee! Eu sou a Valeria
 
-<div align="center">
- <h1 align="center">Sobre mim</h1>
+  - Meu nome é Valeria Martínez, mas pode me chamar de Val 👩🏽
+  - Sou peruana
+  - Tenho 24 anos 
+  - Sou estudante de Comunicação e Marketing, e Front-End 💻
+  - Gosto de cozinhar e andar de skate.
   
-            - Meu nome é Valeria Martínez, mas pode me chamar de Val 👩🏽
-            - Sou peruana
-            - Tenho 24 anos 
-            - Sou estudante de Comunicação e Marketing, e Front-End 💻
-            - Gosto de cozinhar e andar de skate.
-  
-</div>
+
   
   ##
  
