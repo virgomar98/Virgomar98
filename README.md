@@ -1,14 +1,17 @@
-## Olá eu sou a Val
+## Oieeee! Eu sou a Valeria
 
-
-Oie gente meu nome é Valeria Martínez e sou peruana, tenho 24 anos, sou estudante de Comunicação e Marketing, e estudante desenvolvedora de Front-End na Toti.
-  
+- Meu nome é Valeria Martínez, mas pode me chamar de Val 👩🏽
+- Sou peruana
+- Tenho 24 anos 
+- Sou estudante de Comunicação e Marketing, e Front-End 💻
+- Gosto de cozinhar e andar de skate.
+- 
   ##
  
 <div> 
   <a href="https://github.com/virgomar98">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=virgomar98&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virgomar98&layout=compact&langs_count=7&theme=react" />
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=virgomar98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virgomar98&layout=compact&langs_count=7&theme=dracula" />
 
   <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
  
@@ -29,6 +32,8 @@ Oie gente meu nome é Valeria Martínez e sou peruana, tenho 24 anos, sou estuda
 </div>
 
    ##
+
+   ![CatLaptopGIF (2)](https://github.com/virgomar98/virgomar98/assets/135667883/faa98343-3088-4f56-8975-cae2380dc6a1)
+
    
-  ![Snake animation](https://github.com/rafaballerini2/virgomar98/blob/output/github-contribution-grid-snake.svg)
 
