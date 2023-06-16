@@ -5,10 +5,11 @@
 - Tenho 24 anos 
 - Sou estudante de Comunicação e Marketing, e Front-End 💻
 - Gosto de cozinhar e andar de skate.
-- 
+  
   ##
  
 <div> 
+  
   <a href="https://github.com/virgomar98">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=virgomar98&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virgomar98&layout=compact&langs_count=7&theme=dracula" />
